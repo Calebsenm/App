@@ -1,7 +1,5 @@
 
-
-# Save Words 
-
+# App
 This is a simple crud using MYSQL and GO    ,
 the idea of this program is a aplication for save words
 in english and spanish and examples and allow to show and 
